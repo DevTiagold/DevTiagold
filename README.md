@@ -1,4 +1,5 @@
-# Olá, meu nome é Tiago Augusto!!
+# Olá, meu nome é Tiago Augusto!! 
+Obs: Perfil recentemente criado, para projetos pessoais.
 
 👨‍💻Desenvolvedor de aplicações em RA
 
