@@ -31,4 +31,3 @@ Obs: Perfil recentemente criado, para projetos pessoais.
 </div>
 
 ##
-
