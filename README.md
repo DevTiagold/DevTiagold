@@ -1,5 +1,6 @@
 # Olá, meu nome é Tiago Augusto!! 
-Obs: Perfil recentemente criado, para projetos pessoais.
+
+💻💸Vendedor afiliado/produtor online
 
 👨‍💻Desenvolvedor de aplicações em RA
 
