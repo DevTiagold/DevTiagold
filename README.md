@@ -1,7 +1,5 @@
 # Olá, meu nome é Tiago Augusto!! 
 
-💻💸Vendedor afiliado/produtor online
-
 👨‍💻Desenvolvedor de aplicações em RA
 
 🎓Técnico em eletrônica com ênfase em Automação Industrial - ETE FMC
