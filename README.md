@@ -2,8 +2,6 @@
 
 👨‍💻Desenvolvedor de aplicações em RA
 
-🎥Editor de vídeos
-
 🎓Técnico em eletrônica com ênfase em Automação Industrial - ETE FMC
 
 📚Graduando Engenhharia da Computação - INATEL
