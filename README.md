@@ -1,124 +1,81 @@
 # Olá! Eu sou o Tiago Augusto 👋
 
-### 👨‍💻 Engenheiro de Computação | Desenvolvedor | Realidade Aumentada | TI & Tecnologia
+### 👨‍💻 Engenheiro de Computação | Desenvolvedor | Front-end | Realidade Aumentada
 
 Sou **Engenheiro de Computação formado pelo INATEL** e **Técnico em Eletrônica com ênfase em Automação Industrial pela ETE FMC**.
 
-Atualmente trabalho na área de **Tecnologia da Informação na Alooz Comunicação Visual**, atuando com suporte, infraestrutura, desenvolvimento, pesquisa de novas tecnologias e criação de soluções para otimização de processos.
+Tenho interesse em diferentes áreas da tecnologia, especialmente **desenvolvimento Front-end, desenvolvimento de software, Realidade Aumentada, aplicações imersivas, sistemas distribuídos e automação**.
 
-Tenho especial interesse em **desenvolvimento de software, Realidade Aumentada, Realidade Misturada, aplicações imersivas, Unity, sistemas distribuídos e integração entre software e ambientes industriais**.
-
----
-
-## 🚀 Atualmente
-
-🏢 **TI — Alooz Comunicação Visual**
-
-Atuação envolvendo:
-
-- 💻 Suporte e manutenção de equipamentos e sistemas
-- ☁️ Suporte ao ambiente Microsoft 365
-- 🌐 Desenvolvimento e testes de aplicações web
-- 🏭 Pesquisa e aplicação de tecnologias para ambientes industriais
-- 🥽 Desenvolvimento de soluções utilizando Realidade Aumentada
-- ⚙️ Estudos para digitalização e otimização de processos internos
+Gosto de explorar novas tecnologias e transformar ideias em projetos, combinando **software, interfaces, modelagem 3D e interação com ambientes reais**.
 
 ---
 
-## 🥽 Realidade Aumentada
+## 🚀 Sobre mim
 
-Uma das áreas em que venho desenvolvendo projetos é a aplicação de **Realidade Aumentada em ambientes comerciais e industriais**.
-
-Atualmente desenvolvo um projeto experimental utilizando:
-
-`Unity` • `AR Foundation` • `ARCore` • `C#` • `Blender` • `Android`
-
-O objetivo é explorar novas formas de **visualização e apresentação de produtos em escala real utilizando dispositivos móveis**, permitindo interação com modelos 3D através de Realidade Aumentada.
-
----
-
-## 🧪 Projetos e estudos
-
-### 🥽 Catálogo em Realidade Aumentada
-
-Aplicação experimental desenvolvida em **Unity + AR Foundation**, permitindo visualizar produtos tridimensionais no ambiente real através de dispositivos Android.
-
-Principais recursos estudados:
-
-- Detecção de superfícies
-- Posicionamento de objetos em RA
-- AR Anchors
-- Manipulação de modelos 3D
-- Alteração de materiais e cores
-- Simulação de iluminação
-- Visualização interativa de produtos
-- Interface responsiva para dispositivos móveis
-
----
-
-### 🌐 Sistemas Distribuídos
-
-Estudos e desenvolvimento de aplicações envolvendo arquitetura de sistemas distribuídos e boas práticas de desenvolvimento.
-
-Tecnologias utilizadas:
-
-`Python` • `FastAPI` • `Pytest` • `Poetry` • `GitHub Actions` • `Git`
-
-Com práticas envolvendo:
-
-- APIs REST
-- Testes unitários
-- Testes de integração
-- CI/CD
-- Versionamento com Git
-- GitHub Flow
-- Automação de testes
+- 🎓 Engenheiro de Computação — **INATEL**
+- ⚡ Técnico em Eletrônica com ênfase em Automação Industrial — **ETE FMC**
+- 💻 Interesse em **Desenvolvimento de Software e Front-end**
+- 🥽 Desenvolvimento de aplicações em **Realidade Aumentada**
+- 🎮 Experiência com **Unity e desenvolvimento 3D**
+- 🌐 Interesse em **aplicações web e interfaces**
+- ⚙️ Conhecimentos em **Eletrônica e Automação Industrial**
+- 📚 Sempre explorando novas tecnologias e ferramentas
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
+### 🌐 Front-end
 
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/>
-&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"/>
-&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender"/>
-&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino"/>
-&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
-&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/>
-&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"/>
-
+<div>
+  <img align="center" alt="HTML5" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;
+  <img align="center" alt="CSS3" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;
+  <img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
----
+### 💻 Linguagens
 
-## 🎓 Formação
+<div>
+  <img align="center" alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;
+  <img align="center" alt="CSharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  &nbsp;
+  <img align="center" alt="C++" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
 
-🎓 **Engenharia de Computação**  
-Instituto Nacional de Telecomunicações — **INATEL**
+### 🥽 3D & Realidade Aumentada
 
-⚡ **Técnico em Eletrônica com ênfase em Automação Industrial**  
-Escola Técnica de Eletrônica Francisco Moreira da Costa — **ETE FMC**
+<div>
+  <img align="center" alt="Unity" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  &nbsp;
+  <img align="center" alt="Blender" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
+  &nbsp;
+  <img align="center" alt="Android" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+</div>
+
+### ⚙️ Ferramentas & Tecnologias
+
+<div>
+  <img align="center" alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  &nbsp;
+  <img align="center" alt="GitHub" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  &nbsp;
+  <img align="center" alt="VS Code" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  &nbsp;
+  <img align="center" alt="Arduino" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+</div>
 
 ---
 
 ## 💡 Áreas de interesse
 
-`Realidade Aumentada` • `Realidade Misturada` • `Unity` • `Desenvolvimento de Software` • `Sistemas Distribuídos` • `Automação` • `Indústria 4.0` • `Modelagem 3D` • `Tecnologia`
+`Front-end` • `Desenvolvimento Web` • `Realidade Aumentada` • `Realidade Misturada` • `Unity` • `Desenvolvimento de Software` • `Sistemas Distribuídos` • `Automação Industrial` • `Modelagem 3D` • `UI/UX`
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -127,7 +84,7 @@ Escola Técnica de Eletrônica Francisco Moreira da Costa — **ETE FMC**
 </a>
 
 <a href="https://github.com/DevTiagold">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTiagold&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTiagold&layout=compact&langs_count=8&theme=blue-green"/>
 </a>
 
 </div>
@@ -136,14 +93,14 @@ Escola Técnica de Eletrônica Francisco Moreira da Costa — **ETE FMC**
 
 ## 📫 Contato
 
-<div align="center">
+<div>
 
 <a href="http://wa.me/+55(35)98412-4709" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
 <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 </div>
@@ -152,6 +109,6 @@ Escola Técnica de Eletrônica Francisco Moreira da Costa — **ETE FMC**
 
 <div align="center">
 
-### 🚀 Tecnologia, desenvolvimento e inovação transformando ideias em soluções.
+### 🚀 Tecnologia, criatividade e desenvolvimento transformando ideias em projetos.
 
 </div>
