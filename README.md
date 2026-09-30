@@ -17,8 +17,6 @@ Gosto de explorar novas tecnologias e transformar ideias em projetos, combinando
 - 💻 Interesse em **Desenvolvimento de Software e Front-end**
 - 🥽 Desenvolvimento de aplicações em **Realidade Aumentada**
 - 🎮 Experiência com **Unity e desenvolvimento 3D**
-- 🌐 Interesse em **aplicações web e interfaces**
-- ⚙️ Conhecimentos em **Eletrônica e Automação Industrial**
 - 📚 Sempre explorando novas tecnologias e ferramentas
 
 ---
